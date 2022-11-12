@@ -9,7 +9,7 @@ I am Oduwole Ayompo, a Frontend Developer and UI/UX designer with a bachelor’s
 * 💻 HTML, CSS, JS
 * 👮 Version Control
 
-### What I'm currently on 🤵
+### What I'm currently working on 🤵
 - 🔭 I’m currently working on obtaining my Meta Frontend Professional Certificate 
 - 🌱 I’m currently learning React 
 
