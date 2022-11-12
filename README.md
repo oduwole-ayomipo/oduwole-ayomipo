@@ -17,4 +17,4 @@ I am Oduwole Ayompo, a Frontend Developer and UI/UX designer with a bachelor’s
 ### Find Me around the web 🌍
 - 🎯 Actively documenting my coding journey on <a href="https://twitter.com/justayooo">Twitter</a>
 - 🎯 Sharing my UI/UX designs and case studies on <a href="https://www.behance.net/oduwole-ayomipo">Behance</a>
-- 🎯 Connect with designers and developers on <a href="https://www.linkedin.com/in/oduwole-ayomipo/">Linkedin</a> 
+- 🎯 Connecting with designers and developers on <a href="https://www.linkedin.com/in/oduwole-ayomipo/">Linkedin</a> 
