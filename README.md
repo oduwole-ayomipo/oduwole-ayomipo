@@ -4,14 +4,14 @@
 
 I'm Just Ayo, currently creating pixel-perfect user experience and interface, one component at a time💻
 
-### Skills and Experience 🧑‍🔧
-* 📱  UI & UX - Figma
+### Tech Stack 🧑‍🔧
+* 📱  Figma - UI / UX
 * 💻 HTML, CSS, Tailwind, JS, React
 * 👮 Version Control - Git & Github
 
-### What I am currently working on 🤵
-- 🔭 I’m working on obtaining the Meta Frontend Professional Certificate 
-- 🌱 I’m learning React and exploring working with tailwind css
+### I am currently🤵
+- 🔭 in the process of obtaining the Meta Frontend Professional Certificate 
+- 🌱 learning React and exploring  tailwind css
 
 
 ### Find Me around the web 🌍
